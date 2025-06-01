@@ -33,7 +33,7 @@ My research interest  encompass a wide range of areas, including Machine/Deep Le
 - *2015.09 - 2019.06*, Northwestern PolyPtechnical University, B.S.
   - Information and Computing Science, School of Mathematics and Statistics
 
-# 💻 Research
+# 💻 Research Interests
 
 - Machine/Deep Learning
 - Computer Vision and Quality Assessment
@@ -112,7 +112,7 @@ My research interest  encompass a wide range of areas, including Machine/Deep Le
 - Six consecutive years of the 1st Study Scholarship (Top 10\%), 2016 - 2021.
 
 
-# 📆 Study / Research / Intern Experiences
+# 📆 Academic and Intern Experiences
 
 #### Algorithm Research Intern in Moonshot AI, Singapore. 2025.02 - Present
 + Participated in the project of Kimi-VL and Kimi-VL-Thinking, which are the latest open source lightweight yet powerful Vision-Language Models with reasoning capability.
