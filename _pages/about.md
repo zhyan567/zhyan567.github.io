@@ -112,7 +112,7 @@ My research interest  encompass a wide range of areas, including Machine/Deep Le
 - Six consecutive years of the 1st Study Scholarship (Top 10\%), 2016 - 2021.
 
 
-# 📆 Academic and Intern Experiences
+# 📆 Academic Experiences and Internships
 
 #### Algorithm Research Intern in Moonshot AI, Singapore. 2025.02 - Present
 + Participated in the project of Kimi-VL and Kimi-VL-Thinking, which are the latest open source lightweight yet powerful Vision-Language Models with reasoning capability.
