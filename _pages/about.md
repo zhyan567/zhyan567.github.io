@@ -19,9 +19,9 @@ redirect_from:
 
 I am a Ph.D. candidate from [National Engineering Research Center of Visual Technology](https://idm.pku.edu.cn/), [School of Computer Science](https://cs.pku.edu.cn/) and [School of Mathematical Sciences](https://www.math.pku.edu.cn/), [Peking University (PKU)](https://www.pku.edu.cn/), Beijing, China, supervised by Prof. [Ming Jiang](https://www.math.pku.edu.cn/teachers/jiangm/) and Assoc. Prof. [Tingting Jiang](https://cs.pku.edu.cn/info/1069/1634.htm). Before joining PKU, I received my M.S. degree at [School of Artificial Intelligence and Data Science](https://saids.ustc.edu.cn/main.htm), [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), Hefei, China, in 2022, supervised by Prof. Huanhuan Chen. I received my B.S. degree from [School of Mathematics and Statistics](https://math.nwpu.edu.cn/), [Northwestern PolyPtechnical University (NWPU)](https://www.nwpu.edu.cn/), Xi'an, China, in 2019, supervised by Prof. Hongchan Zheng.
 
-I am currently affiliated with the [Multimedia and Interactive Computing Lab (MICL)](https://www.mindlab-ai.com/) as a visiting student in College of [Computing and Data Science (CCDS)](https://www.ntu.edu.sg/computing), [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/), Singapore, where we focus on pushing the boundaries of Computer Vision & Language (CVL) and Graphics & Interactive Computing (GIC) research. I am fortunate to be advised by Prof. [Weisi Lin](https://personal.ntu.edu.sg/wslin/Home.html) in MICL Lab. 
+I am currently affiliated with the [Multimedia and Interactive Computing Lab (MICL)](https://www.mindlab-ai.com/) as a visiting student in [College of Computing and Data Science (CCDS)](https://www.ntu.edu.sg/computing), [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/), Singapore, where we focus on pushing the boundaries of Computer Vision & Language (CVL) and Graphics & Interactive Computing (GIC) research. I am fortunate to be advised by Prof. [Weisi Lin](https://personal.ntu.edu.sg/wslin/Home.html) in MICL Lab. 
 
-My research interest  encompass a wide range of areas, including Machine/Deep Learning, Computer Vision, Quality Assessment, and the applications of State Space Models (SSM) and Large Language Models (LLMs) in vision.  For anything about the research, resources, and other related matters, please feel free to contact me via Email ([zhongyan@stu.pku.edu.cn](zhongyan@stu.pku.edu.cn)).
+My research interest  encompass a wide range of areas, including Machine/Deep Learning, Computer Vision, Quality Assessment, and the applications of State Space Models (SSM) and Large Language Models (LLMs) in vision.  For anything about the research, resources, and other related matters, please feel free to contact me via [Email](zhongyan@stu.pku.edu.cn).
 
 
 # 📖 Educations
@@ -38,6 +38,7 @@ My research interest  encompass a wide range of areas, including Machine/Deep Le
 - Machine/Deep Learning
 - Computer Vision and Quality Assessment
 - Multimodal Large Language Models
+
 
 
 <!-- # 🔥 News
@@ -139,6 +140,11 @@ My research interest  encompass a wide range of areas, including Machine/Deep Le
 <!-- 
 <a href="https://info.flagcounter.com/JP7Q"><img src="https://s05.flagcounter.com/count2/JP7Q/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_20/viewers_0/labels_0/pageviews_1/flags_0/percent_1/" alt="Flag Counter" border="0"></a>
 -->
+# 📕 Teaching
+- *2022.09-2023.01*: Worked as the teaching assistant (TA) for the Artificial Neural Networks class, delivering lectures and support to both bachelor's and master's students.
+- *2023.02-2023.06*: Worked as the teaching assistant (TA) for the Computer Graphics class, delivering lectures and support to both bachelor's and master's students.
+- *2023.09-2024.01*: Worked as the teaching assistant (TA) for the Higher Mathematics course, delivering lectures and support to bachelor's students.
+- *2024.02-2024.06*: Worked as the teaching assistant (TA) for the Artificial Neural Networks class, delivering lectures and support to both bachelor's and master's students.
 
 # 📆 Study / Research / Intern Experiences
 
