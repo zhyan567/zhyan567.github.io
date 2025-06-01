@@ -9,8 +9,8 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Research"
-    url: "/#-research"
+  - title: "Research Interets"
+    url: "/#-research-interets"
 
   - title: "Publications"
     url: "/#-publications"
@@ -18,8 +18,8 @@ main:
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Study / Research / Intern Experiences"
-    url: "/#-study-research-intern-experiences"
+  - title: "Academic Experiences and Internships"
+    url: "/#-academic-experiences-and-Internships"
 
   - title: "Teaching"
     url: "/#-teaching"
