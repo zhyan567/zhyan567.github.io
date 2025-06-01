@@ -98,20 +98,20 @@ My research interest  encompass a wide range of areas, including Machine/Deep Le
 2. Yuanxin Liu, Kun Ouyang, Haoning Wu, Yi Liu, Lin Sui, Xinhao Li, **Yan Zhong**, Y Charles, Xinyu Zhou, Xu Sun. [VideoReasonBench: Can MLLMs Perform Vision-Centric Complex Video Reasoning?](https://arxiv.org/pdf/2505.23359). ArXiv preprint arXiv:2505.23359. [Data](huggingface.co/datasets/lyx97/reasoning_videos). [Code](github.com/llyx97/video_reason_bench). [Project](https://llyx97.github.io/video_reason_bench/).
 
 # 🏆 Honors and Awards
-- The President's Scholarship of Peking University (Top 5\%), 06.2025.
+- The President's Scholarship of Peking University (Top 5%), 06.2025.
 - Mathematics Graduate Award of Beijing International Center for Mathematical Research (BICMR), 12.2024.
 - Outstanding Research Award of Peking University, 11.2024.
 - The Zheng Geru Scholarship of Peking University, 10.2024.
 - ATEC 2023 Knowledge Introducing for LLM Contest (Rank Top 2), 02.2024. 
 - The 2nd Prize of Huawei Software Elite Challenge (Rank Top 5), 04.2022.
-- The 3rd Prize in Huawei Cup Mathematical Modeling Contest (Top 15\%), 12.2020.
-- The NWPU Excellent Student Honor (Top 5\%), 06.2019.
-- The National Scholarship (Top 1\%), 10.2018.
-- The $H$ Prize in the COMAP MCM/ICM (Top 15\%), 04.2018.
-- The NWPU Self-improvement Scholarship (Top 15\%), 10.2017.
-- The NWPU Special Scholarship of Yajun Wu (Top 3\%), 10.2017.
-- The National Encouragement Scholarship (Top 5\%), 10.2016.
-- Six consecutive years of the 1st Study Scholarship (Top 10\%), 2016 - 2021.
+- The 3rd Prize in Huawei Cup Mathematical Modeling Contest (Top 15%), 12.2020.
+- The NWPU Excellent Student Honor (Top 5%), 06.2019.
+- The National Scholarship (Top 1%), 10.2018.
+- The $H$ Prize in the COMAP MCM/ICM (Top 15%), 04.2018.
+- The NWPU Self-improvement Scholarship (Top 15%), 10.2017.
+- The NWPU Special Scholarship of Yajun Wu (Top 3%), 10.2017.
+- The National Encouragement Scholarship (Top 5%), 10.2016.
+- Six consecutive years of the 1st Study Scholarship (Top 10%), 2016 - 2021.
 
 
 # 📆 Academic Experiences and Internships
