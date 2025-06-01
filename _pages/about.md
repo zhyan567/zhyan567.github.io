@@ -17,24 +17,27 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+I am a Ph.D. candidate from [National Engineering Research Center of Visual Technology](https://idm.pku.edu.cn/), [School of Computer Science](https://cs.pku.edu.cn/) and [School of Mathematical Sciences](https://www.math.pku.edu.cn/), [Peking University (PKU)](https://www.pku.edu.cn/), Beijing, China, supervised by Prof. [Ming Jiang](https://www.math.pku.edu.cn/teachers/jiangm/) and Assoc. Prof. [Tingting Jiang](https://cs.pku.edu.cn/info/1069/1634.htm). Before joining PKU, I received my M.S. degree at [School of Artificial Intelligence and Data Science](https://saids.ustc.edu.cn/main.htm), [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), Hefei, China, in 2022, supervised by Prof. Huanhuan Chen. I received my B.S. degree from [School of Mathematics and Statistics](https://math.nwpu.edu.cn/), [Northwestern PolyPtechnical University (NMPU)](https://www.nwpu.edu.cn/), Xi'an, China, in 2019, supervised by Prof. Hongchan Zheng.
 
-Dr. Xingyu Wu is a postdoctoral fellow in the [Department of Data Science and Artificial Intelligence](https://www.polyu.edu.hk/dsai/), [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), Hong Kong SAR, China. Before joining PolyU, he received the Bachelor degree from the [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), Chengdu, China, in 2018, and PhD degree from [School of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm), [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), Hefei, China, in 2023. Dr. Wu is currently affiliated with the [MIND Lab@PolyU](https://www.mindlab-ai.com/), which is dedicated to advancing the frontiers of nature-inspired artificial intelligence research. He is fortunate to be advised by Prof. Kay Chen Tan and Prof. Jibin Wu in MIND Lab. His research interests encompass a wide range of areas, focusing on automated machine learning, causality-based machine learning, and large foundation model.
+I am currently affiliated with the [Multimedia and Interactive Computing Lab (MICL)](https://www.mindlab-ai.com/) as a visiting student in College of [Computing and Data Science (CCDS)](https://www.ntu.edu.sg/computing), [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/), Singapore, where we focus on pushing the boundaries of Computer Vision & Language (CVL) and Graphics & Interactive Computing (GIC) research. I am fortunate to be advised by Prof. [Weisi Lin](https://personal.ntu.edu.sg/wslin/Home.html) in MICL Lab. 
 
-Dr. Wu has actively published in prestigious conferences and journals in machine learning and data mining, including ICML, AAAI, IJCAI, NeurIPS, CIKM, MM, TPAMI, TNNLS, TEVC, TCYB, TKDE, TETCI, TKDD, Information Sciences, and Information Fusion. He is currently serving as the reviewer for 30+ prestigious journals, and (senior) program committee member for 20+ top conferences. For anything about the research, resources, and other related matters, please feel free to contact him via **Wechat (wuxingyu-uestc)** or Email ([xingy.wu@polyu.edu.hk](xingy.wu@polyu.edu.hk)).
+My research interest  encompass a wide range of areas, including Machine/Deep Learning, Computer Vision, Quality Assessment, and the applications of State Space Models (SSM) and Large Language Models (LLMs) in vision.  For anything about the research, resources, and other related matters, please feel free to contact me via Email ([zhongyan@stu.pku.edu.cn](zhongyan@stu.pku.edu.cn)).
 
 
 # 📖 Educations
 
-- *2014.09 - 2018.06*, University of Electronic Science and Technology of China, Bachelor
-  - Computer Science and Technology, School of Computer Science and Engineering
-- *2018.09 - 2023.06*, University of Science and Technology of China, Ph.D.
-  - Computer Science and Technology, School of Computer Science and Technology
+- *2019.09 - 2026.06*, Peking University, Ph.D.
+  - Applied Mathematics, School of Mathematical Sciences
+- *2019.09 - 2022.06*, University of Science and Technology of China, M.S.
+  - Data Science (Computer Science and Technology), School of Artificial Intelligence and Data Science
+- *2015.09 - 2019.06*, Northwestern PolyPtechnical University, B.S.
+  - Information and Computing Science, School of Mathematics and Statistics
 
 # 💻 Research
 
-- Automated Machine Learning
-- Causality-based Machine Learning
-- Large Foundation Model
+- Machine/Deep Learning
+- Computer Vision and Quality Assessment
+- Multimodal Large Language Models
 
 
 <!-- # 🔥 News
@@ -42,87 +45,75 @@ Dr. Wu has actively published in prestigious conferences and journals in machine
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
-1. **Xingyu Wu**, Jibin Wu, Yu Zhou, Liang Feng, Kay Chen Tan. Towards Robustness and Explainability of Automatic Algorithm Selection. The 42rd International Conference on Machine Learning (ICML'25, Spotlight), July 13-19, 2025, Vancouver, Canada.
-2. Zhaolong Ling, Mengxiang Guo, **Xingyu Wu** *, Debo Cheng, Peng Zhou, Tianci Li, Zhangling Duan. Gradient-based Causal Feature Selection. The 34th International Joint Conference on Artificial Intelligence (IJCAI'25), August 16-22, 2025, Montreal, Canada.
-3. Zhaolong Ling, Honghui Peng, Yiwen Zhang, Debo Cheng, **Xingyu Wu**, Peng Zhou, Kui Yu. Hybrid Local Causal Discovery. The 34th International Joint Conference on Artificial Intelligence (IJCAI'25), August 16-22, 2025, Montreal, Canada.
-4. Sheng-Hao Wu, Yuxiao Huang, **Xingyu Wu**, Liang Feng, Zhi-Hui Zhan, Kay Chen Tan. Learning to Transfer for Evolutionary Multitasking. IEEE Transactions on Cybernetics, vol. X (X), pp. XXXX - XXXX, 2025.
-5. Li Zhang, Dong Li, Yan Zhong, Jiaying Zhu, Rujing Wang, **Xingyu Wu** *, Xue Wang *, Liu Liu. Rethinking Image Forgery Detection and Localization via Regression Perspective. IEEE Transactions on Emerging Topics in Computational Intelligence, vol X (x), pp. xxxx-xxxx, 2025.
-6. Zhaolong Ling, Mengxiang Guo, Jingxuan Wu, Yiwen Zhang, Peng Zhou, **Xingyu Wu**, Kui Yu, Xindong Wu. Label-aware Causal Feature Selection. IEEE Transactions on Knowledge and Data Engineering, vol 37 (3), pp. 1268-1281, 2025.
-7. Xun Zhou, **Xingyu Wu** *, Liang Feng *, Zhichao Lu, Kay Chen Tan. Design Principle Transfer in Neural Architecture Search via Large Language Models. The 39th AAAI Conference on Artificial Intelligence (AAAI'25, Oral), February 25 - March 4, 2025, Philadelphia, Pennsylvania, USA.
-8. Bingbing Jiang, Chenglong Zhang, Xinyan Liang, Peng Zhou, Jie Yang, **Xingyu Wu**, Junyi Guan, Weiping Ding, Weiguo Sheng. Collaborative Similarity Fusion and Consistency Recovery for Incomplete Multi-view Clustering. The 39th AAAI Conference on Artificial Intelligence (AAAI'25), February 25 - March 4, 2025, Philadelphia, Pennsylvania, USA.
-9. Zhaolong Ling, Jiale Yu, Yiwen Zhang, Debo Cheng, Peng Zhou, **Xingyu Wu**, Bingbing Jiang, Kui Yu. Local Causal Discovery without Causal Sufficiency. The 39th AAAI Conference on Artificial Intelligence (AAAI'25), February 25 - March 4, 2025, Philadelphia, Pennsylvania, USA.
-10. Yuxiao Huang, Wenjie Zhang, Liang Feng, **Xingyu Wu**, Kay Chen Tan. How multimodal integration boost the performance of llm for optimization: Case study on capacitated vehicle routing problems, The 2025 IEEE Symposium Series on Computational Intelligence (SSCI'25), 17 - 20 March, 2025, Trondheim, Norway.
-11. Zhangling Duan, Tianci Li, Zhaolong Ling, **Xingyu Wu**, Jingye Yang, Zhaohong Jia. Fair Streaming Feature Selection. Neurocomputing, vol 624 (4), pp. 129394, 2025.
-12. **Xingyu Wu**, Sheng-hao Wu, Jibin Wu, Liang Feng, Kay Chen Tan. Evolutionary Computation in the Era of Large Language Model: Survey and Roadmap. IEEE Transactions on Evolutionary Computation, vol 29 (2), pp. 534-554, 2025. ([Repository](https://github.com/wuxingyu-ai/LLM4EC))
-13. Zhaolong Ling, Bo Li, Yiwen Zhang, Peng Zhou, **Xingyu Wu**, Kui Yu, Xindong Wu. Causal Discovery Using Weight-Based Conditional Independence Test. ACM Transactions on Knowledge Discovery from Data, vol 19 (1), pp. 1-24, 2024.
-14. Chenglong Zhang, Xinyan Liang, Peng Zhou, Zhaolong Ling, Yingwei Zhang, **Xingyu Wu**, Weiguo Sheng, Bingbing Jiang. Scalable Multi-view Unsupervised Feature Selection with Structure Learning and Fusion. The 32nd ACM International Conference on Multimedia (MM'24), 28 October - 1 November, 2024, Melbourne, Australia.
-15. Li Zhang, Zean Han, Yan Zhong, Qiaojun Yu, **Xingyu Wu**, Xue Wang, Rujing Wang. VoCAPTER: Voting-based Pose Tracking for Category-level Articulated Object via Inter-frame Priors. The 32nd ACM International Conference on Multimedia (MM'24), 28 October - 1 November, 2024, Melbourne, Australia.
-16. Yan Zhong, **Xingyu Wu**, Li Zhang, Chenxi Yang, Tingting Jiang. Causal-IQA: Towards the Generalization of Image Quality Assessment Based on Causal Inference. The 41st International Conference on Machine Learning (ICML'24), July 21-27, 2024, Vienna, Austria.
-17. **Xingyu Wu**, Yan Zhong, Jibin Wu, Bingbing Jiang, Kay Chen Tan. Large Language Model-Enhanced Algorithm Selection: Towards Comprehensive Algorithm Representation. The 33rd International Joint Conference on Artificial Intelligence (IJCAI'24, Oral), August 3-9, 2024, Jeju, South Korea.
-18. Chenglong Zhang, Yang Fang, Xinyan Liang, Han Zhang, Peng Zhou, **Xingyu Wu**, Jie Yang, Bingbing Jiang, Weiguo Sheng. Efficient Multi-view Unsupervised Feature Selection with Adaptive Structure Learning and Inference. The 33rd International Joint Conference on Artificial Intelligence (IJCAI'24), August 3-9, 2024, Jeju, South Korea.
-19. **Xingyu Wu**, Yan Zhong, Zhaolong Ling, Jie Yang, Li Li, Weiguo Sheng, Bingbing Jiang. Nonlinear Learning Methods for Local Causal Structures. Information Sciences, vol. 654 (1), pp. 119789, 2024.
-20. Chenglong Zhang, Bingbing Jiang, Zidong Wang, Jie Yang, Yangfeng Lu, **Xingyu Wu**, Weiguo Sheng. Efficient multi-view semi-supervised feature selection. Information Sciences, vol 649 (11), pp. 119675, 2023.
-21. Bingbing Jiang, Chenglong Zhang, Yan Zhong, Yi Liu, Yingwei Zhang, **Xingyu Wu** *, Weiguo Sheng *. Adaptive Collaborative Fusion for Multi-view Semi-supervised Classification. Information Fusion, vol 96 (8), pp. 37 - 50, 2023.
-22. Shengfei Lyu, Xiren Zhou, **Xingyu Wu**, Qiuju Chen, Huanhuan Chen. Self-Attention Over Tree for Relation Extraction With Data-Efficiency and Computational Efficiency. IEEE Transactions on Emerging Topics in Computational Intelligence, vol. 8 (2), pp. 1253 - 1263, 2024.
-23. **Xingyu Wu**, Bingbing Jiang, Xiangyu Wang, Taiyu Ban, Huanhuan Chen. Feature Selection in the Data Stream Based on Incremental Markov Boundary Learning. IEEE Transactions on Neural Networks and Learning Systems, vol. 34 (10), pp. 6740 - 6754, 2023.
-24. Xiangyu Wang, Lyuzhou Chen, Taiyu Ban, Derui Lyu, Yifeng Guan, **Xingyu Wu**, Xiren Zhou, Huanhuan Chen. Accurate Label Refinement from Multi-Annotator of Remote Sensing Data. IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 4700413, 2023.
-25. **Xingyu Wu**, Bingbing Jiang, Tianhao Wu, Huanhuan Chen. Practical Markov Boundary Learning without Strong Assumptions. The 37th AAAI Conference on Artificial Intelligence (AAAI'23, Oral), February 7-14, 2023, Washington, DC, USA.
-26. Xin Wang, Shengfei Lyu, Xiangyu Wang, **Xingyu Wu**, Huanhuan Chen. Temporal Knowledge Graph Embedding via Sparse Transfer Matrix. Information Sciences, vol. 623, no. 4, pp. 56–69, 2023.
-27. Xin Wang, Shengfei Lyu, **Xingyu Wu**, Tianhao Wu, Huanhuan Chen. Generalization Bounds for Estimating Causal Effects of Continuous Treatments. The 36th Conference on Neural Information Processing Systems (NeurIPS'22), November 29 - December 1, 2022, New Orleans, Louisiana, USA.
-28. Xiangyu Wang, Taiyu Ban, Lyuzhou Chen, **Xingyu Wu**, Derui Lyu, Huanhuan Chen. Knowledge Verification from Data. IEEE Transactions on Neural Networks and Learning Systems, vol. 35, no. 3, pp. 4324 - 4338, 2024.
-29. **Xingyu Wu**, Bingbing Jiang, Yan Zhong, Huanhuan Chen. Multi-target Markov Boundary Discovery: Theory, Algorithm, and Application. IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 45, no. 4, pp. 4964 - 4980, 2023.
-30. Bingbing Jiang, Junhao Xiang, **Xingyu Wu**, Yadi Wang, Huanhuan Chen, Yi Liu, Weiwei Cao, Weiguo Sheng. Robust Multi-view Learning via Adaptive Regression. Information Sciences, vol. 610, no. 9, pp. 916–937, 2022.
-31. Tianhao Wu, **Xingyu Wu**, Xin Wang, Shikang Liu, Huanhuan Chen. Nonlinear Causal Discovery in Time Series. The 31st ACM International Conference on Information and Knowledge Management (CIKM'22), October 17–21, 2022, Atlanta, Georgia, USA.
-32. Bingbing Jiang, **Xingyu Wu**, Xiren Zhou, Anthony Cohn, Yi Liu, Weiguo Sheng, Huanhuan Chen. Semi-Supervised Multi-View Feature Selection with Adaptive Graph Learning. IEEE Transactions on Neural Networks and Learning Systems, vol. 35, no. 3, pp. 3615 - 3629, 2024.
-33. Taiyu Ban, Xiangyu Wang, Lyuzhou Chen, **Xingyu Wu**, Qiuju Chen, Huanhuan Chen. Quality Evaluation of Triples in Knowledge Graph by Incorporating Internal with External Consistency. IEEE Transactions on Neural Networks and Learning Systems, vol. 35, no. 2, pp. 1980 - 1992, 2024.
-34. **Xingyu Wu**, Zhenchao Tao, Bingbing Jiang, Tianhao Wu, Xin Wang, Huanhuan Chen. Domain Knowledge-enhanced Variable Selection for Biomedical Data Analysis. Information Sciences, vol. 606 (8), pp. 469 - 488, 2022.
-35. Jiarun Zhu, **Xingyu Wu**, Muhammad Usman, Xiangyu Wang, Huanhuan Chen. Link Prediction in Continuous-Time Dynamic Heterogeneous Graphs with Causality of Event Types. International Journal of Crowd Science, vol. 6, no. 2, pp. 80–91, 2022.
-36. **Xingyu Wu**, Bingbing Jiang, Shengfei Lyu, Xiangyu Wang, Qiuju Chen, Huanhuan Chen. A Survey on Causal Feature Selection Based on Markov Boundary Discovery. Pattern Recognition and Artificial Intelligence, vol. 35 (5), pp. 422 - 438, 2022.
-37. Gangqiang Hu, Shengfei Lyu, **Xingyu Wu**, Jinlong Li, Huanhuan Chen. Contextual-Aware Information Extractor with Adaptive Objective for Chinese Medical Dialogues. ACM Transactions on Asian and Low-Resource Language Information Processing, vol. 21 (5), pp. 1 - 21, 2022.
-38. Bingbing Jiang, Wenda He, **Xingyu Wu**, Junhao Xiang, Libin Hong, Weiguo Sheng. Semi-Supervised Feature Selection with Adaptive Graph Learning. ACTA Electronica Sinica, vol. 50, no. 7, pp. 1643–1652, 2022.
-39. Shengfei Lyu, **Xingyu Wu**, Jinlong Li, Qiuju Chen, Huanhuan Chen. Do Models Learn the Directionality of Relations? A New Evaluation: Relation Direction Recognition. IEEE Transactions on Emerging Topics in Computational Intelligence, vol. 6 (4), pp. 883 - 892, 2022.
-40. Kui Yu, Mingzhu Cai, **Xingyu Wu**, Lin Liu, Jiuyong Li. Multi-Label Feature Selection: a Local Causal Structure Learning Approach. IEEE Transactions on Neural Networks and Learning Systems, vol. 34 (6), pp. 3044 - 3057, 2023.
-41. Bingbing Jiang, Junhao Xiang, **Xingyu Wu** *, Wenda He, Libin Hong, Weiguo Sheng *. Robust Adaptive-weighting Multi-view Classification. The 30th ACM International Conference on Information and Knowledge Management (CIKM'21, Oral), November 1–5, 2021, Gold Coast, Australia.
-42. Yan Zhong, **Xingyu Wu**, Bingbing Jiang, Huanhuan Chen. Multi-label Local-to-Global Feature Selection. International Joint Conference on Neural Networks (IJCNN'21), July 18–22, 2021, Virtual Event, Shenzhen, China.
-43. **Xingyu Wu**, Bingbing Jiang, Kui Yu, Huanhuan Chen. Separation and Recovery Markov Boundary Discovery and Its Application in EEG-based Emotion Recognition. Information Sciences, vol. 571 (9), pp. 262 - 278, 2021.
-44. Shengfei Lyu, Jin Cheng, **Xingyu Wu**, Lizhen Cui, Huanhuan Chen, Chunyan Miao. Auxiliary Learning for Relation Extraction. IEEE Transactions on Emerging Topics in Computational Intelligence, vol. 6 (1), pp. 182 - 191, 2022.
-45. **Xingyu Wu**, Bingbing Jiang, Yan Zhong, Huanhuan Chen. Tolerant Markov Boundary Discovery for Feature Selection. The 29th ACM International Conference on Information and Knowledge Management (CIKM'20, Oral), October 19–23, 2020, Virtual Event, Ireland.
-46. **Xingyu Wu**, Bingbing Jiang, Kui Yu, Huanhuan Chen, Chunyan Miao. Multi-label Causal Feature Selection. The 34th AAAI Conference on Artificial Intelligence (AAAI'20, Poster), February 7-12, 2020, New York, USA.
-47. **Xingyu Wu**, Bingbing Jiang, Kui Yu, Chunyan Miao, Huanhuan Chen. Accurate Markov Boundary Discovery for Causal Feature Selection. IEEE Transactions on Cybernetics, vol. 50 (12), pp. 4983 - 4996, 2020.
-48. Bingbing Jiang, **Xingyu Wu**, Kui Yu, Huanhuan Chen. Joint Semi-supervised Feature Selection and Classification through Bayesian Approach. The 33th AAAI Conference on Artificial Intelligence (AAAI'19), January 27- February 1, 2019, Honolulu, Hawaii, USA.	
+## Papers
+1. **Yan Zhong**, Chenxi Yang, Suyuan Zhao, Tingting Jiang. Semi-Supervised Blind Quality Assessment with Confidence-quantifiable Pseudo-label Learning for Authentic Images. The 42rd International Conference on Machine Learnin (ICML'25), July 13-19, 2025, Vancouver, Canada.
+2. Suyuan Zhao, YIZHEN LUO, Ganbo Yang, **Yan Zhong**, Hao Zhou, Zaiqing Nie. SToFM: a Multi-scale Foundation Model for Spatial Transcriptomics. The 42rd International Conference on Machine Learnin (ICML'25), July 13-19, 2025, Vancouver, Canada.
+3. **Yan Zhong**, Xinping Zhao, Guangzhi Zhao, Bohua Chen, Fei Hao, Ruoyu Zhao, Jiaqi He, Lei Shi, Li Zhang. CTD-inpainting: Towards the coherence of text-driven inpainting with Blended Diffusion. Information Fusion, 103163, 2025.
+4. Wenbo Xu, Li Zhang, **Yan Zhong**, Haonan Jiang, Xue Wang, Rujing Wang, Liu Liu. Pre-defined Keypoints Promote Category-level Articulation Pose Estimation via Multi-Modal Alignment.  The 34th International Joint Conference on Artificial Intelligence (IJCAI'25), August 16-22, 2025, Montreal, Canada.
+5. Shuaijie Shen, Chao Wang, Renzhuo Huang, **Yan Zhong**, Qinghai Guo, Zhichao Lu, Jianguo Zhang, Luziwei Leng. Spikingssms: Learning Long Sequences with Sparse and Parallel Spiking State Space Models. The 39th AAAI Conference on Artificial Intelligence (AAAI'25), February 25 - March 4, 2025, Philadelphia, Pennsylvania, USA.
+6. Li Zhang, Haonan Jiang, Yukang Huo, **Yan Zhong**, Jianan Wang, Xue Wang, Rujing Wang, Liu Liu. R$^2$-Art: Category-Level Articulation Pose Estimation from Single RGB Image via Cascade Render Strategy. The 39th AAAI Conference on Artificial Intelligence (AAAI'25), February 25 - March 4, 2025, Philadelphia, Pennsylvania, USA.
+7. Xiaoxi Sun, Jinpeng Li, **Yan Zhong**, Dongyan Zhao, Rui Yan. Towards Detecting LLMs Hallucination via Markov Chain-based Multi-agent Debate Framework.The ICASSP 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP'25). April 06 - 11, 2025, Hyderabad, India; Suzhou, China.
+8. Li Zhang, Dong Li, **Yan Zhong**, Jiaying Zhu, Rujing Wang, Xingyu Wu, Xue Wang, Liu Liu. Rethinking Image Forgery Detection and Localization via Regression Perspective. IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI), 2025.
+9. Xinping Zhao, **Yan Zhong**, Zetian Sun, Xinshuo Hu, Zhenyu Liu, Dongfang Li, Baotian Hu, Min Zhang. Funnelrag: A Coarse-to-Fine Progressive Retrieval Paradigm for RAG. The 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL'25), April 29–May 4, 2025, Albuquerque, New Mexico.
+10. **Yan Zhong**, Xingyu Wu, Xinping Zhao, Li Zhang, Xinyuan Song, Lei Shi, Bingbing Jiang. Semi-Supervised Multi-Label Feature Selection with Consistent Sparse Graph Learning. ArXiv preprint arXiv:2505.17875.
+12. Yukang Huo, Xianhui Meng, Li Zhang, Haonan Jiang, **Yan Zhong**, Mingyuan Yao, Haihua Wang. Diff-Art: Category-level Articulation Pose Estimation via Conditional Diffusion. IEEE International Conference on Multimedia & Expo 2025 (ICME'25), June 30 - July 4, 2025, Nantes, France.
+13. Li Zhang*, **Yan Zhong***, Jianan Wang, Zhe Min, Rujing Wang, Liu Liu. Rethinking 3D Convolution in $l_p$-norm Space. The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS'24, Spotlight). Dec 10 - Dec 15,2024, Vancouver, Canada.
+14. Xinping Zhao, Dongfang Li, **Yan Zhong**, Boren Hu, Yibin Chen, Baotian Hu, Min Zhang. SEER: Self-Aligned Evidence Extraction for Retrieval-Augmented Generation. Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP'24), Nov 12th - Nov 16th, 2024, Miami, Florida, USA.
+15. Shuhang Tan, Zhiling Wang, **Yan Zhong**. RCP‐RF: A Comprehensive Road‐car‐pedestrian Risk Management Framework Based on Driving Risk Potential Field. IET Intelligent Transport Systems, 18(12): 2618-2640. 2024.
+16. **Yan Zhong***, Ruoyu Zhao*, Chao Wang, Qinghai Guo, Jianguo Zhang, Zhichao Lu, Luziwei Leng. SPikE-SSM: A Sparse, Precise, and Efficient Spiking State Space Model for Long Sequences Learning. ArXiv preprint arXiv:2410.17268, 2024.
+17. Li Zhang, Zean Han, **Yan Zhong**, Qiaojun Yu, Xingyu Wu, Xue Wang, Rujing Wang. Vocapter: Voting-based Pose Tracking for Category-level Articulated Object via Inter-frame Priors. Proceedings of the 32nd ACM International Conference on Multimedia (ACM MM'24), Oct 28 - Nov 1, 2024, Melbourne, Australia.
+18. Yunya Zhou, Bin Yuan, **Yan Zhong**#, Yuling Li#. Multi-label Robust Feature Selection via Subspace-Sparsity Learning. The 2024 International Conference on Artificial Neural Networks (ICANN'24), Sep 17 - 20, 2024, Viganello, Switzerland.
+19. Dongjie Yuan, Bin Yuan#, **Yan Zhong**#. Multi-label Feature Selection with Adaptive Subspace Learning. The 2024 International Conference on Knowledge Science, Engineering and Management (KSEM'24), August 16 - 18, 2024, Birmingham, UK.
+20. Zihao Xu, Chenglong Zhang, Zhaolong Ling, Peng Zhou, **Yan Zhong**, Li Li, Han Zhang, Weiguo Sheng, Bingbing Jiang. Multi-View Semi-Supervised Feature Selection with Graph Convolutional Networks. The 2024 International Joint Conference on Neural Networks (IJCNN'24). Jun 30 - Jul 5, 2024, Yokohama, Japan.
+21. Chenglong Zhang, Xinjie Zhu, Zidong Wang, **Yan Zhong**, Weiguo Sheng, Weiping Ding, Bingbing Jiang. Discriminative Multi-View Fusion Via Adaptive Regression. IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI), 2024.
+22. **Yan Zhong**, Xingyu Wu, Li Zhang, Chenxi Yang, Tingting Jiang. Causal-IQA: Towards the Generalization of Image Quality Assessment Based on Causal Inference. The 41st International Conference on Machine Learnin (ICML'24), July 21 - 27, 2024, Vienna, Austria.
+23. Xingyu Wu, **Yan Zhong**, Zhaolong Ling, Jie Yang, Li Li, Weiguo Sheng, Bingbing Jiang. Nonlinear Learning Method for Local Causal Structures. Information Sciences, 654: 119789, 2024.
+24. Li Zhang, Weiqing Meng, **Yan Zhong**, Bin Kong, Mingliang Xu, Jianming Du, Xue Wang, Rujing Wang, Liu Liu. U-COPE: Taking a Further Step to Universal 9D Category-Level Object Pose Estimation. Sep 29 - Oct 4, 2024, Milan, Italy.
+25. Xingyu Wu, **Yan Zhong**, Jibin Wu, Bingbing Jiang, Kay Chen Tan. Large Language Model-enhanced Algorithm Selection: Towards Comprehensive Algorithm Representation. The 33rd International Joint Conference on Artificial Intelligence (IJCAI'24, Oral), August 03 -09, 2024, Jeju, Korea.
+26. Bingbing Jiang, Chenglong Zhang, **Yan Zhong**, Yi Liu, Yingwei Zhang, Xingyu Wu, Weiguo Sheng. Adaptive Collaborative Fusion for Multi-view Semi-supervised Classification. Information Fusion, vol 96 (8), pp. 37 - 50, 2023.
+27. Xingyu Wu, Bingbing Jiang, **Yan Zhong**, Huanhuan Chen. Multi-target Markov Boundary Discovery: Theory, Algorithm, and Application. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), vol. 45, no. 4, pp. 4964 - 4980, 2023.
+28. **Yan Zhong**, Xingyu Wu, Bingbing Jiang, Huanhuan Chen. Multi-label Local-to-Global Feature Selection. International Joint Conference on Neural Networks (IJCNN'21), July 18–22, 2021, Virtual Event, Shenzhen, China.
+29. Xingyu Wu, Bingbing Jiang, **Yan Zhong**, Huanhuan Chen. Tolerant Markov Boundary Discovery for Feature Selection. The 29th ACM International Conference on Information and Knowledge Management (CIKM'20, Oral), October 19–23, 2020, Virtual Event, Ireland.
+30. Long Zhang, Chenge Wei, Wei Chang, Ruihang Zhang and **Yan Zhong**. Improvement of Newton Iteration Method in Constrained Optimization of Sketches. Electronic Science and Technology, 2018: 31(4), 64-67.
 
-&emsp; &emsp; **Note**: * indicates the corresponding author. Some papers are Under Review.
+&emsp; &emsp; **Note**: * denotes the co-first authors, and # indicates the corresponding author. Some papers are Under Review.
 
+## Issued Patents
+1. **Yan Zhong**, Wei Wang, Ruoyi Xu, Zhongqian Xie, Xinyan Zhao, Fangxin Wang and Shuhang Tan. Method, Device, Apparatus and Medium for Text Processing. (2022 Patent) (Patent Number: CN115292449A)
+2. Wei Wang, **Yan Zhong**, Liting Qian, Shandong Ye, Chao Chen and Huanhuan Chen. Method and System for Determining the Causal Relationship between BMD and Factors Affecting BMD. (2021 Patent) (Patent Number: CN112998653A)
 
+## Participated Books
+1. [Multimodal Embeddings for Representation Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5189627).
+2. [Exploring Multimodal Embeddings for Text and Impact on Language Processing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5189610).
+3. [Mastering Reinforcement Learning: Foundations, Algorithms, and Real-World Applications](https://osf.io/preprints/osf/bg79j_v2).
+4. [Advanced Deep Learning Methods for Protein Structure Prediction and Design](https://arxiv.org/abs/2503.13522).
+5. [Ethics and Social Implications of Large Language Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5207555).
+6. [Deep Learning and Machine Learning: Contrastive Learning, from scratch to application](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5211937).
+
+## Technical Reports and Benchmarks
+1. Kimi Team. [Kimi-VL Technical Report](https://arxiv.org/abs/2504.07491). [Code and Models](https://github.com/MoonshotAI/Kimi-VL).
+2. Yuanxin Liu, Kun Ouyang, Haoning Wu, Yi Liu, Lin Sui, Xinhao Li, **Yan Zhong**, Y Charles, Xinyu Zhou, Xu Sun. [VideoReasonBench: Can MLLMs Perform Vision-Centric Complex Video Reasoning?](https://arxiv.org/pdf/2505.23359). ArXiv preprint arXiv:2505.23359. [Data](huggingface.co/datasets/lyx97/reasoning_videos). [Code](github.com/llyx97/video_reason_bench). [Project](https://llyx97.github.io/video_reason_bench/).
 
 # 🎖 Honors and Awards
-- First Prize, IEEE CIS FLAME Technical Challenge 2024, Dec 2024 ([Link](https://www.polyu.edu.hk/dsai/news-and-events/news/2025/20250113-ieee/))
-- Top Performance Award, ACM Multimedia 2022 Social Media Prediction (SMP) Challenge, Dec 2022 ([Link](https://smp-challenge.com/2022/leaderboard.html))
-- CAST 2022 Annual Science and Technology Journal Bilingual Dissemination Project (中国科协2022年度科技期刊双语传播工程), China Association for Science and Technology, Dec, 2022 ([Link](https://note.kxsz.net/share/30700637-16cd-403e-af2b-765752594800))
-- Second Prize of The Chinese Mathematics Competitions (全国大学生数学竞赛, CMC), Chinese Mathematical Society, Oct 2015
-- Second Prize of China Undergraduate Mathematical Contest in Modeling (全国大学生数学建模竞赛, CUMCM), China Society for Industrial and Applied Mathematics, Oct 2016
-- Finalist of International Mathematical Contest in Modeling (MCM), Consortium for Mathematics and Its Application, Oct 2017
-- Outstanding Graduate Award of Sichuan Province, Education Department of Sichuan Province, Jan 2018
-- Outstanding Graduate Award of UESTC, UESTC, Jun 2018
-- National Scholarship, Ministry of Education of the People’s Republic of China, Dec 2016, Dec 2019
-- Intel Scholarship, Intel, Dec 2022
-- Huawei Scholarship, Huawei, Dec 2020, Dec 2022
-- Outstanding Graduate Award of USTC, USTC, Jun 2023
-
+- The President's Scholarship of Peking University (Top 5\%), 06.2025.
+- Mathematics Graduate Award of Beijing International Center for Mathematical Research (BICMR), 12.2024.
+- Outstanding Research Award of Peking University, 11.2024.
+- The Zheng Geru Scholarship of Peking University, 10.2024.
+- ATEC 2023 Knowledge Introducing for LLM Contest (Rank Top 2), 02.2024. 
+- The 2nd Prize of Huawei Software Elite Challenge (Rank Top 5), 04.2022.
+- The 3rd Prize in Huawei Cup Mathematical Modeling Contest (Top 15\%), 12.2020.
+- The NWPU Excellent Student Honor (Top 5\%), 06.2019.
+- The National Scholarship (Top 1\%), 10.2018.
+- The $H$ Prize in the COMAP MCM/ICM (Top 15\%), 04.2018.
+- The NWPU Self-improvement Scholarship (Top 15\%), 10.2017.
+- The NWPU Special Scholarship of Yajun Wu (Top 3\%), 10.2017.
+- The National Encouragement Scholarship (Top 5\%), 10.2016.
+- Six consecutive years of the 1st Study Scholarship (Top 10\%), 2016 - 2021.
 
 # ⏳ Professional Services
 
-#### Senior Program Committee Member (SPC)
-- The 34th International Joint Conference on Artificial Intelligence (IJCAI'25)
-- The 11th IEEE International Conference on Cybernetics and Intelligent Systems Robotics, Automation and Mechatronics (CIS-RAM'24)
-
 #### Program Committee Member (PC)
-- The 35th AAAI Conference on Artificial Intelligence (AAAI'21)
-- The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP'21)
 - The 36th AAAI Conference on Artificial Intelligence (AAAI'22)
-- The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP'22)
-- The 2023 Future of Information and Communication Conference (FICC'23)
-- The 37th AAAI Conference on Artificial Intelligence (AAAI'23)
 - The 2023 International Joint Conference on Neural Networks (IJCNN'23)
 - The 38th AAAI Conference on Artificial Intelligence (AAAI'24)
 - The 2024 International Joint Conference on Neural Networks (IJCNN'24)
@@ -130,62 +121,45 @@ Dr. Wu has actively published in prestigious conferences and journals in machine
 - The 33rd ACM International Conference on Multimedia (ACM MM'24)
 - The 38th Annual Conference on Neural Information Processing Systems (NeurIPS'24)
 - The 13th International Conference on Learning Representations (ICLR'25)
-- The 28th International Conference on Artificial Intelligence and Statistics (AISTATS'25)
+- The 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'25)
 - The 42nd International Conference on Machine Learning (ICML'25)
+- The 2025 International Conference on Computer Vision (ICCV'25)
 - The 34th ACM International Conference on Multimedia (ACM MM'25)
-- The 2025 International Joint Conference on Neural Networks (IJCNN'25)
-- The 2025 IEEE Congress on Evolutionary Computation (CEC'25)
 - The 39th Annual Conference on Neural Information Processing Systems (NeurIPS'25)
-- The 28th European Conference on Artificial Intelligence (ECAI'25)
 
 #### Journal Invited Reviewer
 - IEEE Transactions on Knowledge and Data Engineering (TKDE, IEEE)
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS, IEEE)
 - IEEE Transactions on Evolutionary Computation (TEVC, IEEE)
-- IEEE Transactions on Cybernetics (TCYB, IEEE)
-- IEEE Transactions on Cognitive and Developmental Systems (TCDS, IEEE)
-- IEEE Computational Intelligence Magazine (CIM, IEEE)
-- IEEE/CAA Journal of Automatica Sinica (JAS, IEEE)
-- IEEE Robotics and Automation Letters (RA-L, IEEE)
-- INFORMS Journal on Computing (JOC, INFORMS, UTD-24 Journal)
-- Evolutionary Computation (ECJ, MIT Press Journals)
 - Information Fusion (INFFUS, Elsevier)
-- Pattern Recognition (PR, Elsevier)
-- Swarm and Evolutionary Computation (SWEVO, Elsevier)
 - Information Processing and Management (IPM, Elsevier)
 - Engineering Applications of Artificial Intelligence (EAAI, Elsevier)
-- Neurocomputing (NEUCOM, Elsevier)
-- Applied Soft Computing (ASOC, Elsevier)
-- Electronic Commerce Research and Applications (ECRA, Elsevier)
-- ARRAY (ARRAY, Elsevier)
-- World Wide Web (WWW, Springer)
-- Soft Computing (SOCO, Springer)
-- International Journal of Fuzzy Systems (IJFS, Springer)
-- Journal of Ambient Intelligence and Humanized Computing (AIHC, Springer)
 - Complex & Intelligent Systems (CAIS, Springer)
-- International Journal of Intelligent Systems (IJIS, Wiley)
-- Intelligent Automation and Soft Computing (IASC, TSI Press)
-- CMC-Computers, Materials & Continua (CMC, Tech Science Press)
-- JMIR Medical Informatics (JMI, JMIR)
 
 <a href="https://info.flagcounter.com/JP7Q"><img src="https://s05.flagcounter.com/count2/JP7Q/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_20/viewers_0/labels_0/pageviews_1/flags_0/percent_1/" alt="Flag Counter" border="0"></a>
 
-<!-- # 📆 Research Experience
+# 📆 Study / Research / Intern Experiences
 
-#### Ranking-based Implicit Regularization for One-class collaborative filtering
-+ Propose a ranking-based regularizer for one-class collaborative filtering by hypothesizing that users’ preference scores for uninteracted items should not deviate a lot from each other.
-+ The research has been accepted by AAAI 2019, TKDE 2021.
+#### Algorithm Research Intern in Moonshot AI, Singapore. 2025.02 - Present </font>
++ Participated in the project of Kimi-VL and Kimi-VL-Thinking, which are the latest open source lightweight yet powerful Vision-Language Models with reasoning capability.
+  
+#### Algorithm Research Intern in ACS Lab, Huawei Technologies, Beijing, China. 2023.07 - 2025.01 </font>
++ Researched for the intelligent computing method based on SNNs and State Space Model (SSM).
++ Explored and Exploited the Bio-interpretable Dynamical Properties in SNN-Based SSMs for Long Sequence Learning.
 
-#### Advertising Creative Optimization <font size="3">(Alibaba Innovative Research, Alimama Group) </font>
-+ Lead and accomplish the research of online advertising creative optimization.
-+ Deploy the algorithm in the production environment and increase CTR by 5%.
-+ The research has been accepted by AAAI 2021, WWW 2021.
+#### Visiting Scholar in Southern University of Science and Technology, Shenzhen, China. 2022.06 - 2022.09 </font>
++ Research visit in the Evolving Machine Intelligence Group (EMI Lab), hosted by [Ran Cheng](https://chengran.tech/).
++ Research for intelligent computing method based on SNNs and State Space Model (SSM).
 
-#### Dynamic Negative Sampling for Recommender Systems
-+ Propose a dynamic sampler via inverted multi-index. The research has been accepted by WWW 2022.
-+ Design an importance resampling based sampler. The research has been accepted by WWW 2022.
-+ Propose a Cache-Augmented Inbatch Importance Resampling for training recommender retrievers. The research has been submitted to NeurIPS 2022.
+#### Recommendation Algorithm Engineer Intern in NetEase, Hangzhou, China. 2022.01 - 2022.05 </font>
++ Participated in the Long Text Keyword Extraction and Fine-grained Named Entity Recognition projects in the NetEase Music Division.
++ Participated in the Heart Encounter Chat project, responsible for text analysis, conversation generation, NLP and other related business.
++ Participated in the CLUE Fine-grained NER competition and achieved  (Top 10\%).
 
-#### Join Order Selection for Database Optimizer <font size="3"> (Huawei Cloud Database Innovation Lab) </font>
-+ Lead and accomplish the research of RL-based Join Order Selection.
-+ The research has been accepted by KDD 2022. -->
+#### Machine Learning Engineer Intern in SF Technology, Shenzhen, China. 2021.06 - 2021.09 </font>
++ Participated in the Address Standardization project and B-side Client Identification project.
++ Participated in the Vehicle Routing Optimization and Big Data Analysis projects.
+
+#### Study in Zhejiang University, Hangzhou, China. 2018.07 - 2018.08. 
++ Qiushi summer school in School of Mathematical Science.
++ Courses: Langlands Program, Geometric Theory of Partial Differential Equations, Computing Methods of Stochastic Differential Equations, etc.
