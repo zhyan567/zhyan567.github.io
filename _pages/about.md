@@ -50,7 +50,7 @@ My research interest  encompass a wide range of areas, including Machine/Deep Le
 # 📝 Publications 
 ## Papers
 1. **Yan Zhong**, Chenxi Yang, Suyuan Zhao, Tingting Jiang. Semi-Supervised Blind Quality Assessment with Confidence-quantifiable Pseudo-label Learning for Authentic Images. The 42nd International Conference on Machine Learnin (ICML'25), July 13-19, 2025, Vancouver, Canada.
-2. Suyuan Zhao, YIZHEN LUO, Ganbo Yang, **Yan Zhong**, Hao Zhou, Zaiqing Nie. SToFM: a Multi-scale Foundation Model for Spatial Transcriptomics. The 42nd International Conference on Machine Learnin (ICML'25), July 13-19, 2025, Vancouver, Canada.
+2. Suyuan Zhao, Yizhen Luo, Ganbo Yang, **Yan Zhong**, Hao Zhou, Zaiqing Nie. SToFM: a Multi-scale Foundation Model for Spatial Transcriptomics. The 42nd International Conference on Machine Learnin (ICML'25), July 13-19, 2025, Vancouver, Canada.
 3. **Yan Zhong**, Xinping Zhao, Guangzhi Zhao, Bohua Chen, Fei Hao, Ruoyu Zhao, Jiaqi He, Lei Shi, Li Zhang. CTD-inpainting: Towards the coherence of text-driven inpainting with Blended Diffusion. Information Fusion, 103163, 2025.
 4. Wenbo Xu, Li Zhang, **Yan Zhong**, Haonan Jiang, Xue Wang, Rujing Wang, Liu Liu. Pre-defined Keypoints Promote Category-level Articulation Pose Estimation via Multi-Modal Alignment.  The 34th International Joint Conference on Artificial Intelligence (IJCAI'25), August 16-22, 2025, Montreal, Canada.
 5. Shuaijie Shen, Chao Wang, Renzhuo Huang, **Yan Zhong**, Qinghai Guo, Zhichao Lu, Jianguo Zhang, Luziwei Leng. Spikingssms: Learning Long Sequences with Sparse and Parallel Spiking State Space Models. The 39th AAAI Conference on Artificial Intelligence (AAAI'25), February 25 - March 4, 2025, Philadelphia, Pennsylvania, USA.
@@ -98,19 +98,19 @@ My research interest  encompass a wide range of areas, including Machine/Deep Le
 2. Yuanxin Liu, Kun Ouyang, Haoning Wu, Yi Liu, Lin Sui, Xinhao Li, **Yan Zhong**, Y Charles, Xinyu Zhou, Xu Sun. [VideoReasonBench: Can MLLMs Perform Vision-Centric Complex Video Reasoning?](https://arxiv.org/pdf/2505.23359). ArXiv preprint arXiv:2505.23359. [Data](huggingface.co/datasets/lyx97/reasoning_videos). [Code](github.com/llyx97/video_reason_bench). [Project](https://llyx97.github.io/video_reason_bench/).
 
 # 🏆 Honors and Awards
-- The President's Scholarship of Peking University (Top 5%), 06.2025.
-- Mathematics Graduate Award of Beijing International Center for Mathematical Research (BICMR), 12.2024.
-- Outstanding Research Award of Peking University, 11.2024.
-- The Zheng Geru Scholarship of Peking University, 10.2024.
-- ATEC 2023 Knowledge Introducing for LLM Contest (Rank Top 2), 02.2024. 
-- The 2nd Prize of Huawei Software Elite Challenge (Rank Top 5), 04.2022.
-- The 3rd Prize in Huawei Cup Mathematical Modeling Contest (Top 15%), 12.2020.
-- The NWPU Excellent Student Honor (Top 5%), 06.2019.
-- The National Scholarship (Top 1%), 10.2018.
-- The $H$ Prize in the COMAP MCM/ICM (Top 15%), 04.2018.
-- The NWPU Self-improvement Scholarship (Top 15%), 10.2017.
-- The NWPU Special Scholarship of Yajun Wu (Top 3%), 10.2017.
-- The National Encouragement Scholarship (Top 5%), 10.2016.
+- The President's Scholarship of Peking University (Top 5%), 2025.06.
+- Mathematics Graduate Award of Beijing International Center for Mathematical Research (BICMR), 2024.12.
+- Outstanding Research Award of Peking University, 2024.11.
+- The Zheng Geru Scholarship of Peking University, 2024.10.
+- ATEC 2023 Knowledge Introducing for LLM Contest (Rank Top 2), 2024.02. 
+- The 2nd Prize of Huawei Software Elite Challenge (Rank Top 5), 2022.04.
+- The 3rd Prize in Huawei Cup Mathematical Modeling Contest (Top 15%), 2020.12.
+- The NWPU Excellent Student Honor (Top 5%), 2019.06.
+- The National Scholarship (Top 1%), 2018.10.
+- The $H$ Prize in the COMAP MCM/ICM (Top 15%), 2018.04.
+- The NWPU Self-improvement Scholarship (Top 15%), 2017.10.
+- The NWPU Special Scholarship of Yajun Wu (Top 3%), 2017.10.
+- The National Encouragement Scholarship (Top 5%), 2016.10.
 - Six consecutive years of the 1st Study Scholarship (Top 10%), 2016 - 2021.
 
 
