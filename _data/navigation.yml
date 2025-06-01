@@ -11,9 +11,6 @@ main:
 
   - title: "Research"
     url: "/#-research"
-  
-  # - title: "Internships"
-    # url: "/#-internships"
 
   - title: "Publications"
     url: "/#-publications"
@@ -21,9 +18,13 @@ main:
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
+  - title: "Study / Research / Intern Experiences"
+    url: "/#-study-/-research-/-intern-experiences"
+
+  - title: "Teaching"
+    url: "/#-teaching"
+
   - title: "Professional Services"
     url: "/#-professional-services"
-  
-   - title: "Study / Research / Intern Experiences"
-     url: "/#-study-/-research-/-intern-experiences"
+
 
