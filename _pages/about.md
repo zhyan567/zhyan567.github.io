@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 🌞 About Me
+
 I am a Ph.D. candidate from [National Engineering Research Center of Visual Technology](https://idm.pku.edu.cn/), [School of Computer Science](https://cs.pku.edu.cn/) and [School of Mathematical Sciences](https://www.math.pku.edu.cn/), [Peking University (PKU)](https://www.pku.edu.cn/), Beijing, China, supervised by Prof. [Ming Jiang](https://www.math.pku.edu.cn/teachers/jiangm/) and Assoc. Prof. [Tingting Jiang](https://cs.pku.edu.cn/info/1069/1634.htm). Before joining PKU, I received my M.S. degree at [School of Artificial Intelligence and Data Science](https://saids.ustc.edu.cn/main.htm), [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), Hefei, China, in 2022, supervised by Prof. Huanhuan Chen. I received my B.S. degree from [School of Mathematics and Statistics](https://math.nwpu.edu.cn/), [Northwestern PolyPtechnical University (NWPU)](https://www.nwpu.edu.cn/), Xi'an, China, in 2019, supervised by Prof. Hongchan Zheng.
 
 I am currently affiliated with the [Multimedia and Interactive Computing Lab (MICL)](https://www.mindlab-ai.com/) as a visiting student in [College of Computing and Data Science (CCDS)](https://www.ntu.edu.sg/computing), [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/), Singapore, where we focus on pushing the boundaries of Computer Vision & Language (CVL) and Graphics & Interactive Computing (GIC) research. I am fortunate to be advised by Prof. [Weisi Lin](https://personal.ntu.edu.sg/wslin/Home.html) in MICL Lab. 
@@ -95,7 +97,7 @@ My research interest  encompass a wide range of areas, including Machine/Deep Le
 1. Kimi Team. [Kimi-VL Technical Report](https://arxiv.org/abs/2504.07491). [Code and Models](https://github.com/MoonshotAI/Kimi-VL).
 2. Yuanxin Liu, Kun Ouyang, Haoning Wu, Yi Liu, Lin Sui, Xinhao Li, **Yan Zhong**, Y Charles, Xinyu Zhou, Xu Sun. [VideoReasonBench: Can MLLMs Perform Vision-Centric Complex Video Reasoning?](https://arxiv.org/pdf/2505.23359). ArXiv preprint arXiv:2505.23359. [Data](huggingface.co/datasets/lyx97/reasoning_videos). [Code](github.com/llyx97/video_reason_bench). [Project](https://llyx97.github.io/video_reason_bench/).
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 - The President's Scholarship of Peking University (Top 5\%), 06.2025.
 - Mathematics Graduate Award of Beijing International Center for Mathematical Research (BICMR), 12.2024.
 - Outstanding Research Award of Peking University, 11.2024.
