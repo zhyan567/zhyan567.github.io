@@ -142,10 +142,10 @@ My research interest  encompass a wide range of areas, including Machine/Deep Le
 
 
 # 📕 Teaching
-- *2022.09-2023.01*: Worked as the teaching assistant (TA) for the Artificial Neural Networks class, delivering lectures and support to both bachelor's and master's students.
-- *2023.02-2023.06*: Worked as the teaching assistant (TA) for the Computer Graphics class, delivering lectures and support to both bachelor's and master's students.
-- *2023.09-2024.01*: Worked as the teaching assistant (TA) for the Higher Mathematics course, delivering lectures and support to bachelor's students.
-- *2024.02-2024.06*: Worked as the teaching assistant (TA) for the Artificial Neural Networks class, delivering lectures and support to both bachelor's and master's students.
+- *2022.09-2023.01*: Worked as the teaching assistant (TA) for the Artificial Neural Networks class in Peking University, delivering lectures and support to both bachelor's and master's students.
+- *2023.02-2023.06*: Worked as the teaching assistant (TA) for the Computer Graphics class in Peking University, delivering lectures and support to both bachelor's and master's students.
+- *2023.09-2024.01*: Worked as the teaching assistant (TA) for the Higher Mathematics course in Peking University, delivering lectures and support to bachelor's students.
+- *2024.02-2024.06*: Worked as the teaching assistant (TA) for the Artificial Neural Networks class in Peking University, delivering lectures and support to both bachelor's and master's students.
 
 # ⏳ Services
 
