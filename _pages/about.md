@@ -37,7 +37,7 @@ My research interest  encompass a wide range of areas, including Machine/Deep Le
 
 # 💻 Research Interests
 
-- Machine/Deep Learning
+- Machine / Deep Learning
 - Computer Vision and Quality Assessment
 - Multimodal Large Language Models
 
