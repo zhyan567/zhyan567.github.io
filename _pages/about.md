@@ -114,23 +114,23 @@ My research interest  encompass a wide range of areas, including Machine/Deep Le
 
 # 📆 Study / Research / Intern Experiences
 
-#### Algorithm Research Intern in Moonshot AI, Singapore. 2025.02 - Present </font>
+#### Algorithm Research Intern in Moonshot AI, Singapore. 2025.02 - Present
 + Participated in the project of Kimi-VL and Kimi-VL-Thinking, which are the latest open source lightweight yet powerful Vision-Language Models with reasoning capability.
   
-#### Algorithm Research Intern in ACS Lab, Huawei Technologies, Beijing, China. 2023.07 - 2025.01 </font>
+#### Algorithm Research Intern in ACS Lab, Huawei Technologies, Beijing, China. 2023.07 - 2025.01
 + Researched for the intelligent computing method based on SNNs and State Space Model (SSM).
 + Explored and Exploited the Bio-interpretable Dynamical Properties in SNN-Based SSMs for Long Sequence Learning.
 
-#### Visiting Scholar in Southern University of Science and Technology, Shenzhen, China. 2022.06 - 2022.09 </font>
+#### Visiting Scholar in Southern University of Science and Technology, Shenzhen, China. 2022.06 - 2022.09
 + Research visit in the Evolving Machine Intelligence Group (EMI Lab), hosted by [Ran Cheng](https://chengran.tech/).
 + Research for intelligent computing method based on SNNs and State Space Model (SSM).
 
-#### Recommendation Algorithm Engineer Intern in NetEase, Hangzhou, China. 2022.01 - 2022.05 </font>
+#### Recommendation Algorithm Engineer Intern in NetEase, Hangzhou, China. 2022.01 - 2022.05
 + Participated in the Long Text Keyword Extraction and Fine-grained Named Entity Recognition projects in the NetEase Music Division.
 + Participated in the Heart Encounter Chat project, responsible for text analysis, conversation generation, NLP and other related business.
 + Participated in the CLUE Fine-grained NER competition and achieved  (Top 10\%).
 
-#### Machine Learning Engineer Intern in SF Technology, Shenzhen, China. 2021.06 - 2021.09 </font>
+#### Machine Learning Engineer Intern in SF Technology, Shenzhen, China. 2021.06 - 2021.09
 + Participated in the Address Standardization project and B-side Client Identification project.
 + Participated in the Vehicle Routing Optimization and Big Data Analysis projects.
 
