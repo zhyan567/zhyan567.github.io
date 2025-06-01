@@ -111,6 +111,40 @@ My research interest  encompass a wide range of areas, including Machine/Deep Le
 - The National Encouragement Scholarship (Top 5\%), 10.2016.
 - Six consecutive years of the 1st Study Scholarship (Top 10\%), 2016 - 2021.
 
+
+# 📆 Study / Research / Intern Experiences
+
+#### Algorithm Research Intern in Moonshot AI, Singapore. 2025.02 - Present </font>
++ Participated in the project of Kimi-VL and Kimi-VL-Thinking, which are the latest open source lightweight yet powerful Vision-Language Models with reasoning capability.
+  
+#### Algorithm Research Intern in ACS Lab, Huawei Technologies, Beijing, China. 2023.07 - 2025.01 </font>
++ Researched for the intelligent computing method based on SNNs and State Space Model (SSM).
++ Explored and Exploited the Bio-interpretable Dynamical Properties in SNN-Based SSMs for Long Sequence Learning.
+
+#### Visiting Scholar in Southern University of Science and Technology, Shenzhen, China. 2022.06 - 2022.09 </font>
++ Research visit in the Evolving Machine Intelligence Group (EMI Lab), hosted by [Ran Cheng](https://chengran.tech/).
++ Research for intelligent computing method based on SNNs and State Space Model (SSM).
+
+#### Recommendation Algorithm Engineer Intern in NetEase, Hangzhou, China. 2022.01 - 2022.05 </font>
++ Participated in the Long Text Keyword Extraction and Fine-grained Named Entity Recognition projects in the NetEase Music Division.
++ Participated in the Heart Encounter Chat project, responsible for text analysis, conversation generation, NLP and other related business.
++ Participated in the CLUE Fine-grained NER competition and achieved  (Top 10\%).
+
+#### Machine Learning Engineer Intern in SF Technology, Shenzhen, China. 2021.06 - 2021.09 </font>
++ Participated in the Address Standardization project and B-side Client Identification project.
++ Participated in the Vehicle Routing Optimization and Big Data Analysis projects.
+
+#### Study in Zhejiang University, Hangzhou, China. 2018.07 - 2018.08. 
++ Qiushi summer school in School of Mathematical Science.
++ Courses: Langlands Program, Geometric Theory of Partial Differential Equations, Computing Methods of Stochastic Differential Equations, etc.
+
+
+# 📕 Teaching
+- *2022.09-2023.01*: Worked as the teaching assistant (TA) for the Artificial Neural Networks class, delivering lectures and support to both bachelor's and master's students.
+- *2023.02-2023.06*: Worked as the teaching assistant (TA) for the Computer Graphics class, delivering lectures and support to both bachelor's and master's students.
+- *2023.09-2024.01*: Worked as the teaching assistant (TA) for the Higher Mathematics course, delivering lectures and support to bachelor's students.
+- *2024.02-2024.06*: Worked as the teaching assistant (TA) for the Artificial Neural Networks class, delivering lectures and support to both bachelor's and master's students.
+
 # ⏳ Professional Services
 
 #### Program Committee Member (PC)
@@ -140,34 +174,3 @@ My research interest  encompass a wide range of areas, including Machine/Deep Le
 <!-- 
 <a href="https://info.flagcounter.com/JP7Q"><img src="https://s05.flagcounter.com/count2/JP7Q/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_20/viewers_0/labels_0/pageviews_1/flags_0/percent_1/" alt="Flag Counter" border="0"></a>
 -->
-# 📕 Teaching
-- *2022.09-2023.01*: Worked as the teaching assistant (TA) for the Artificial Neural Networks class, delivering lectures and support to both bachelor's and master's students.
-- *2023.02-2023.06*: Worked as the teaching assistant (TA) for the Computer Graphics class, delivering lectures and support to both bachelor's and master's students.
-- *2023.09-2024.01*: Worked as the teaching assistant (TA) for the Higher Mathematics course, delivering lectures and support to bachelor's students.
-- *2024.02-2024.06*: Worked as the teaching assistant (TA) for the Artificial Neural Networks class, delivering lectures and support to both bachelor's and master's students.
-
-# 📆 Study / Research / Intern Experiences
-
-#### Algorithm Research Intern in Moonshot AI, Singapore. 2025.02 - Present </font>
-+ Participated in the project of Kimi-VL and Kimi-VL-Thinking, which are the latest open source lightweight yet powerful Vision-Language Models with reasoning capability.
-  
-#### Algorithm Research Intern in ACS Lab, Huawei Technologies, Beijing, China. 2023.07 - 2025.01 </font>
-+ Researched for the intelligent computing method based on SNNs and State Space Model (SSM).
-+ Explored and Exploited the Bio-interpretable Dynamical Properties in SNN-Based SSMs for Long Sequence Learning.
-
-#### Visiting Scholar in Southern University of Science and Technology, Shenzhen, China. 2022.06 - 2022.09 </font>
-+ Research visit in the Evolving Machine Intelligence Group (EMI Lab), hosted by [Ran Cheng](https://chengran.tech/).
-+ Research for intelligent computing method based on SNNs and State Space Model (SSM).
-
-#### Recommendation Algorithm Engineer Intern in NetEase, Hangzhou, China. 2022.01 - 2022.05 </font>
-+ Participated in the Long Text Keyword Extraction and Fine-grained Named Entity Recognition projects in the NetEase Music Division.
-+ Participated in the Heart Encounter Chat project, responsible for text analysis, conversation generation, NLP and other related business.
-+ Participated in the CLUE Fine-grained NER competition and achieved  (Top 10\%).
-
-#### Machine Learning Engineer Intern in SF Technology, Shenzhen, China. 2021.06 - 2021.09 </font>
-+ Participated in the Address Standardization project and B-side Client Identification project.
-+ Participated in the Vehicle Routing Optimization and Big Data Analysis projects.
-
-#### Study in Zhejiang University, Hangzhou, China. 2018.07 - 2018.08. 
-+ Qiushi summer school in School of Mathematical Science.
-+ Courses: Langlands Program, Geometric Theory of Partial Differential Equations, Computing Methods of Stochastic Differential Equations, etc.
