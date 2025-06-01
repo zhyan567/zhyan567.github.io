@@ -147,7 +147,7 @@ My research interest  encompass a wide range of areas, including Machine/Deep Le
 - *2023.09-2024.01*: Worked as the teaching assistant (TA) for the Higher Mathematics course, delivering lectures and support to bachelor's students.
 - *2024.02-2024.06*: Worked as the teaching assistant (TA) for the Artificial Neural Networks class, delivering lectures and support to both bachelor's and master's students.
 
-# ⏳ Professional Services
+# ⏳ Services
 
 #### Program Committee Member (PC)
 - The 36th AAAI Conference on Artificial Intelligence (AAAI'22)
