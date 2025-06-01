@@ -49,8 +49,8 @@ My research interest  encompass a wide range of areas, including Machine/Deep Le
 
 # 📝 Publications 
 ## Papers
-1. **Yan Zhong**, Chenxi Yang, Suyuan Zhao, Tingting Jiang. Semi-Supervised Blind Quality Assessment with Confidence-quantifiable Pseudo-label Learning for Authentic Images. The 42rd International Conference on Machine Learnin (ICML'25), July 13-19, 2025, Vancouver, Canada.
-2. Suyuan Zhao, YIZHEN LUO, Ganbo Yang, **Yan Zhong**, Hao Zhou, Zaiqing Nie. SToFM: a Multi-scale Foundation Model for Spatial Transcriptomics. The 42rd International Conference on Machine Learnin (ICML'25), July 13-19, 2025, Vancouver, Canada.
+1. **Yan Zhong**, Chenxi Yang, Suyuan Zhao, Tingting Jiang. Semi-Supervised Blind Quality Assessment with Confidence-quantifiable Pseudo-label Learning for Authentic Images. The 42nd International Conference on Machine Learnin (ICML'25), July 13-19, 2025, Vancouver, Canada.
+2. Suyuan Zhao, YIZHEN LUO, Ganbo Yang, **Yan Zhong**, Hao Zhou, Zaiqing Nie. SToFM: a Multi-scale Foundation Model for Spatial Transcriptomics. The 42nd International Conference on Machine Learnin (ICML'25), July 13-19, 2025, Vancouver, Canada.
 3. **Yan Zhong**, Xinping Zhao, Guangzhi Zhao, Bohua Chen, Fei Hao, Ruoyu Zhao, Jiaqi He, Lei Shi, Li Zhang. CTD-inpainting: Towards the coherence of text-driven inpainting with Blended Diffusion. Information Fusion, 103163, 2025.
 4. Wenbo Xu, Li Zhang, **Yan Zhong**, Haonan Jiang, Xue Wang, Rujing Wang, Liu Liu. Pre-defined Keypoints Promote Category-level Articulation Pose Estimation via Multi-Modal Alignment.  The 34th International Joint Conference on Artificial Intelligence (IJCAI'25), August 16-22, 2025, Montreal, Canada.
 5. Shuaijie Shen, Chao Wang, Renzhuo Huang, **Yan Zhong**, Qinghai Guo, Zhichao Lu, Jianguo Zhang, Luziwei Leng. Spikingssms: Learning Long Sequences with Sparse and Parallel Spiking State Space Models. The 39th AAAI Conference on Artificial Intelligence (AAAI'25), February 25 - March 4, 2025, Philadelphia, Pennsylvania, USA.
