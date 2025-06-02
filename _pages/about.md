@@ -28,7 +28,7 @@ My research interest  encompass a wide range of areas, including Machine/Deep Le
 
 # 📖 Educations
 
-- *2019.09 - 2026.06*, Peking University, Ph.D.
+- *2022.09 - 2026.06*, Peking University, Ph.D.
   - Applied Mathematics, School of Mathematical Sciences
 - *2019.09 - 2022.06*, University of Science and Technology of China, M.S.
   - Data Science (Computer Science and Technology), School of Artificial Intelligence and Data Science
