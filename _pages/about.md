@@ -131,7 +131,7 @@ My research interest  encompass a wide range of areas, including Machine/Deep Le
 #### Recommendation Algorithm Engineer Intern in NetEase, Hangzhou, China. 2022.01 - 2022.05
 + Participated in the Long Text Keyword Extraction and Fine-grained Named Entity Recognition projects in the NetEase Music Division.
 + Participated in the Heart Encounter Chat project, responsible for text analysis, conversation generation, NLP and other related business.
-+ Participated in the CLUE Fine-grained NER competition and achieved  (Top 10\%).
++ Participated in the CLUE Fine-grained NER competition and achieved  (Top 10%).
 
 #### Machine Learning Engineer Intern in SF Technology, Shenzhen, China. 2021.06 - 2021.09
 + Participated in the Address Standardization project and B-side Client Identification project.
