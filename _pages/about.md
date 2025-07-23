@@ -97,7 +97,7 @@ My research interest  encompass a wide range of areas, including Machine/Deep Le
 
 ## Technical Reports and Benchmarks
 1. Kimi Team. [Kimi-VL Technical Report](https://arxiv.org/abs/2504.07491). [Code and Models](https://github.com/MoonshotAI/Kimi-VL).
-2. Yuanxin Liu, Kun Ouyang, Haoning Wu, Yi Liu, Lin Sui, Xinhao Li, **Yan Zhong**, Y Charles, Xinyu Zhou, Xu Sun. [VideoReasonBench: Can MLLMs Perform Vision-Centric Complex Video Reasoning?](https://arxiv.org/pdf/2505.23359). ArXiv preprint arXiv:2505.23359. [Data](huggingface.co/datasets/lyx97/reasoning_videos). [Code](github.com/llyx97/video_reason_bench). [Project](https://llyx97.github.io/video_reason_bench/).
+2. [VideoReasonBench: Can MLLMs Perform Vision-Centric Complex Video Reasoning?](https://arxiv.org/pdf/2505.23359). ArXiv preprint arXiv:2505.23359. [Data](huggingface.co/datasets/lyx97/reasoning_videos). [Code](github.com/llyx97/video_reason_bench). [Project](https://llyx97.github.io/video_reason_bench/). <!--Yuanxin Liu, Kun Ouyang, Haoning Wu, Yi Liu, Lin Sui, Xinhao Li, **Yan Zhong**, Y Charles, Xinyu Zhou, Xu Sun.-->
 
 # 🏆 Honors and Awards
 - The President's Scholarship of Peking University (Top 5%), 2025.06.
