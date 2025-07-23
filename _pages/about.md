@@ -118,10 +118,10 @@ My research interest  encompass a wide range of areas, including Machine/Deep Le
 
 # 📆 Academic Experiences and Internships
 
-#### Algorithm Research Intern in Moonshot AI, Singapore. 2025.02 - 2025.06 <!--Present-->
+#### Algorithm Research Intern in Moonshot AI, Singapore. 2025.06 - 2025.09 <!--Present-->
 + Participated in the project of Kimi-VL and Kimi-VL-Thinking, which are the latest open source lightweight yet powerful Vision-Language Models with reasoning capability.
   
-#### Algorithm Research Intern in ACS Lab, Huawei Technologies, Beijing, China. 2023.07 - 2025.01
+#### Algorithm Research Intern in ACS Lab, Huawei Technologies, Beijing, China. 2023.07 - 2025.04
 + Researched for the intelligent computing method based on SNNs and State Space Model (SSM).
 + Explored and Exploited the Bio-interpretable Dynamical Properties in SNN-Based SSMs for Long Sequence Learning.
 
